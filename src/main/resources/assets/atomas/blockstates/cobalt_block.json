@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "atomas:block/cobalt_block"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "item.atomas.cobalt_ingot" : "Cobalt ingot",
+  "item.atomas.cobalt_nugget" : "Cobalt nugget",
+  "item.atomas.raw_cobalt" : "Raw cobalt",
+
+  "creativetab.atomas_tab" : "Atomas",
+
+  "block.atomas.cobalt_block" : "Cobalt block",
+  "block.atomas.raw_cobalt_block" : "Raw cobalt block",
+  "block.atomas.cobalt_ore" : "Cobalt ore",
+  "block.atomas.deepslate_cobalt_ore" : "Deepslate cobalt ore"
+}

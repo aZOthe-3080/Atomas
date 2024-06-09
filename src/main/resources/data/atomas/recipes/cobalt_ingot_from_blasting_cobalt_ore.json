@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1.0,
+  "ingredient": {
+    "item": "atomas:cobalt_ore"
+  },
+  "result": "atomas:cobalt_ingot"
+}
